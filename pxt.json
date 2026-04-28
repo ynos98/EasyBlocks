@@ -3,7 +3,8 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "builder": "*"
+        "builder": "*",
+        "easyblocks": "github:ynos98/easyblocks"
     },
     "files": [
         "main.ts",
